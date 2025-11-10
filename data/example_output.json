@@ -1,0 +1,62 @@
+[
+  {
+    "url": "https://clutch.co/profile/smartsites",
+    "summary": {
+      "name": "SmartSites",
+      "title": "Think Web. Think Smart.",
+      "rating": 5,
+      "noOfReviews": 56,
+      "description": "Outsmart the competition with best-in-class digital marketing services.",
+      "verificationStatus": "GOLD VERIFIED",
+      "minProjectSize": "$1,000+",
+      "averageHourlyRate": "$100 - $149 / hr",
+      "employees": "10 - 49",
+      "founded": "Founded 2011"
+    },
+    "focus": [
+      {
+        "title": "Client focus",
+        "values": [
+          {
+            "name": "Small Business (<$10M)",
+            "percentage": 80
+          },
+          {
+            "name": "Midmarket ($10M - $1B)",
+            "percentage": 20
+          }
+        ]
+      }
+    ],
+    "serviceProvided": [
+      {
+        "name": "Web Development",
+        "percent": 0.3
+      },
+      {
+        "name": "Custom Software Development",
+        "percent": 0.25
+      }
+    ],
+    "portfolio": [],
+    "verification": {
+      "Status": "GOLD VERIFIED"
+    },
+    "reviews": [
+      {
+        "name": "SEO & PPC Services for Outdoor Refinishing Company",
+        "datePublished": "May 25, 2021",
+        "review": {
+          "rating": 5,
+          "comments": "The team's work resulted in increased traffic and conversions."
+        },
+        "reviewer": {
+          "name": "Drew Isaacman",
+          "title": "Owner, General Manager, Teak & Deck"
+        }
+      }
+    ],
+    "websiteUrl": "https://www.smartsites.com",
+    "contactInfo": []
+  }
+]
