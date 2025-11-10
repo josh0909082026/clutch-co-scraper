@@ -1,0 +1,11 @@
+{
+  "baseUrl": "https://clutch.co",
+  "includeReviews": true,
+  "request": {
+    "timeoutMs": 20000,
+    "retries": 3,
+    "retryDelayMs": 2000
+  },
+  "inputFile": "data/sample_input.json",
+  "outputFile": "data/example_output.json"
+}
